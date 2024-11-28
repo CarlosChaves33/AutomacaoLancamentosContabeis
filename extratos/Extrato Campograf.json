@@ -1,0 +1,834 @@
+{
+    "arquivo_origem": "Extrato Campograf.xlsx",
+    "data_processamento": "2024-11-28 16:12:16",
+    "dados": [
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 700.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. conta Inter                                         "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 400.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. conta Bradesco                                      "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 1500.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. empréstimo da Ingrafic                              "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 1475.86,
+            "Descrição                                                        ": "Pgto.doc : 000073076/1 - Technocoat Artefatos de P (NFFO021990/1)"
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 905.65,
+            "Descrição                                                        ": "Pgto.doc : 000209781/3 - Dicapel Campos Novos (NFFO021584/3)     "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 1224.05,
+            "Descrição                                                        ": "Pgto.doc : 000052251/3 - Induspel (NFFO021848/3)                 "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/11 - Ingra (NFFO021208/11)                  "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 1206.75,
+            "Descrição                                                        ": "Pgto.doc : 000248028/1 - Passalacqua (NFFO022019/1)              "
+        },
+        {
+            "Data    ": "2024-09-02",
+            "        Entradas": 0.0,
+            "          Saídas": 2123.68,
+            "Descrição                                                        ": "Juros utilização limite                                          "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 350.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. BB p/ Itau                                               "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 4200.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Emprestimo Ingrafic p/ Campograf                                 "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 3835.62,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 133572 - Despesas R$ 90,38   "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 1560.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006697 - Eleicao 2024 Dilco Angelo/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 1035.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006727/01 - Soff Cine/Boleto                         "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 0.0,
+            "          Saídas": 597.49,
+            "Descrição                                                        ": "IOF                                                              "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 0.0,
+            "          Saídas": 1204.39,
+            "Descrição                                                        ": "Pgto.doc : 000001185/4 - Curitiba Embalagens Ltda (NFFO021860/4) "
+        },
+        {
+            "Data    ": "2024-09-03",
+            "        Entradas": 0.0,
+            "          Saídas": 815.13,
+            "Descrição                                                        ": "Pgto.doc : 07/2024 - Difal (CP04702)                             "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 13800.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. empréstimo Ingrafic                                 "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 1420.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006691 - Mocelin Supermercado/Boleto                 "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 1460.0,
+            "Descrição                                                        ": "Transf. para conta Bradesco                                      "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 518.3,
+            "Descrição                                                        ": "Pgto.doc : 000212200/1 - Dicapel Campos Novos (NFFO022022/1)     "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/12 - Ingra (NFFO021208/12)                  "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 1031.86,
+            "Descrição                                                        ": "Pgto.doc : 000042376/3 - Quimagraf/ Itajaí (NFFO021914/3)        "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 3925.61,
+            "Descrição                                                        ": "Pgto.doc : 002651395 - Amil (NFFO022219)                         "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 1148.31,
+            "Descrição                                                        ": "Pgto.doc : 000049530/1 - Kgepel - SC (NFFO022029/1)              "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 8800.0,
+            "Descrição                                                        ": "Transf. para conta BB                                            "
+        },
+        {
+            "Data    ": "2024-09-04",
+            "        Entradas": 0.0,
+            "          Saídas": 255.2,
+            "Descrição                                                        ": "Pgto.doc : 000095802 - Transpiedade (NFFO022374)                 "
+        },
+        {
+            "Data    ": "2024-09-05",
+            "        Entradas": 11550.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Emprestimo Ingrafic p/ Campograf                                 "
+        },
+        {
+            "Data    ": "2024-09-05",
+            "        Entradas": 650.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. BB p/ Itau                                               "
+        },
+        {
+            "Data    ": "2024-09-05",
+            "        Entradas": 0.0,
+            "          Saídas": 12808.55,
+            "Descrição                                                        ": "Pgto.doc : 08/2024 - Pagto Funcionários (CP04721)                "
+        },
+        {
+            "Data    ": "2024-09-05",
+            "        Entradas": 0.0,
+            "          Saídas": 434.86,
+            "Descrição                                                        ": "Pgto.doc : 000212274/1 - Dicapel Campos Novos (NFFO022054/1)     "
+        },
+        {
+            "Data    ": "2024-09-05",
+            "        Entradas": 0.0,
+            "          Saídas": 390.0,
+            "Descrição                                                        ": "Pgto.doc : 000005146 - S.G. Solucoes Tecnologica (NFFO022098)    "
+        },
+        {
+            "Data    ": "2024-09-06",
+            "        Entradas": 6324.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006673 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-06",
+            "        Entradas": 13804.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006674 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-06",
+            "        Entradas": 615.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006702 - Eleicao 2024 Luiz Carlos /Boleto            "
+        },
+        {
+            "Data    ": "2024-09-06",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/13 - Ingra (CP04581)                        "
+        },
+        {
+            "Data    ": "2024-09-06",
+            "        Entradas": 0.0,
+            "          Saídas": 8000.0,
+            "Descrição                                                        ": "Dev. Emprestimo Campo P/ Ingrafic                                "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 2400.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Emprestimo Ingrafic p/ Campograf                                 "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 1125.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006703 - Eleicao 2024 Gustavo Stra/Pix estático      "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 549.55,
+            "Descrição                                                        ": "Pgto.doc : 000004840 - Ondulapack Industria e Co (NFFO022337)    "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 219.27,
+            "Descrição                                                        ": "Pgto.doc : 000004841 - Ondulapack Industria e Co (NFFO022366)    "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 2516.0,
+            "Descrição                                                        ": "Pgto.doc : 000022849 - Netnews (NFFO022363)                      "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 800.5,
+            "Descrição                                                        ": "Pgto.doc : 000244269 - Dicapel Blumenau (NFFO021889)             "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 517.78,
+            "Descrição                                                        ": "Pgto.doc : 000212613/1 - Dicapel Campos Novos (NFFO022101/1)     "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 1224.05,
+            "Descrição                                                        ": "Pgto.doc : 000052251/4 - Induspel (NFFO021848/4)                 "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 580.37,
+            "Descrição                                                        ": "Pgto.doc : 000052479 - Induspel (NFFO022017)                     "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/14 - Ingra (CP04582)                        "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 390.0,
+            "Descrição                                                        ": "Pgto.doc : 000087424 - Transpalmas (NFFO022271)                  "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 80.0,
+            "Descrição                                                        ": "Pgto.doc : 000002293 - Nacional Equipamentos de (NFFO022418)     "
+        },
+        {
+            "Data    ": "2024-09-09",
+            "        Entradas": 0.0,
+            "          Saídas": 2150.0,
+            "Descrição                                                        ": "Pgto.doc : 003269139 - Sodexo (NFFO022444)                       "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 950.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. BB p/ Itau                                               "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 14076.36,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 133796 - Despesas R$ 347,14  "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 13804.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006678 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 6188.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006679 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 310.0,
+            "Descrição                                                        ": "Pgto.doc : 000005379 - Ailton Facas (NFFO022381)                 "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 1204.4,
+            "Descrição                                                        ": "Pgto.doc : 000001185/5 - Curitiba Embalagens Ltda (NFFO021860/5) "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 200.0,
+            "Descrição                                                        ": "Pgto.doc : 000016164 - Netnews (NFFO022294)                      "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 160.0,
+            "Descrição                                                        ": "Pgto.doc : 000022831 - Netnews (NFFO022295)                      "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 644.25,
+            "Descrição                                                        ": "Pgto.doc : 000248348/1 - Passalacqua (NFFO022121/1)              "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 2300.0,
+            "Descrição                                                        ": "Dev. Emprestimo Campograf P/ Ingrafic                            "
+        },
+        {
+            "Data    ": "2024-09-10",
+            "        Entradas": 0.0,
+            "          Saídas": 3200.0,
+            "Descrição                                                        ": "Transf. Itau p/ Bradesco                                         "
+        },
+        {
+            "Data    ": "2024-09-11",
+            "        Entradas": 1000.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. Bradesco p/ Itau                                         "
+        },
+        {
+            "Data    ": "2024-09-11",
+            "        Entradas": 0.0,
+            "          Saídas": 20650.0,
+            "Descrição                                                        ": "Devolução Campograf p/ Ingrafic                                  "
+        },
+        {
+            "Data    ": "2024-09-11",
+            "        Entradas": 0.0,
+            "          Saídas": 2826.0,
+            "Descrição                                                        ": "Pgto.doc : 000001028 - Aldacira Blind (NFFO022340)               "
+        },
+        {
+            "Data    ": "2024-09-12",
+            "        Entradas": 0.0,
+            "          Saídas": 2060.0,
+            "Descrição                                                        ": "Pgto.doc : 000001088/1 - Ingra (NFFO021458/1)                    "
+        },
+        {
+            "Data    ": "2024-09-12",
+            "        Entradas": 0.0,
+            "          Saídas": 1464.46,
+            "Descrição                                                        ": "Pgto.doc : 000042444/2 - Quimagraf/ Itajaí (NFFO021938/2)        "
+        },
+        {
+            "Data    ": "2024-09-12",
+            "        Entradas": 0.0,
+            "          Saídas": 706.23,
+            "Descrição                                                        ": "Pgto.doc : 000072976/2 - Technocoat Artefatos de P (NFFO021924/2)"
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 950.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. conta Bradesco                                      "
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 3400.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec. transf. conta BB                                            "
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 198.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006720 - Eleicao 2024 Dilco Angelo/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 2600.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006724 - Eleicao 2024 Luiz Carlos /Boleto            "
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 2000.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006721 - Eleição 2024 Marcia Barbo/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-13",
+            "        Entradas": 700.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Receb. Marcia Barbosa - NF 6721                                  "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 37640.64,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 133953 - Despesas R$ 1.045,23"
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 700.0,
+            "Descrição                                                        ": "Devolução cliente Marcia Barbosa                                 "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 461.95,
+            "Descrição                                                        ": "Pgto.doc : 000058668/1 - Rio Branco (NFFO022152/1)               "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 1105.11,
+            "Descrição                                                        ": "Pgto.doc : 000073766/1 - Technocoat Artefatos de P (NFFO022198/1)"
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/16 - Ingra (CP04584)                        "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 2060.0,
+            "Descrição                                                        ": "Pgto.doc : 000001088/2 - Ingra (NFFO021458/2)                    "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 1206.75,
+            "Descrição                                                        ": "Pgto.doc : 000248028/2 - Passalacqua (NFFO022019/2)              "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 3360.57,
+            "Descrição                                                        ": "Pgto.doc : 000042750/1 - Quimagraf/ Itajaí (NFFO022177/1)        "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 1475.86,
+            "Descrição                                                        ": "Pgto.doc : 000073076/2 - Technocoat Artefatos de P (NFFO021990/2)"
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 6122.11,
+            "Descrição                                                        ": "Pgto.doc : 07/36 - Empréstimo Itaú (DF00047/07)                  "
+        },
+        {
+            "Data    ": "2024-09-16",
+            "        Entradas": 0.0,
+            "          Saídas": 4255.78,
+            "Descrição                                                        ": "Juros utilização limite                                          "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 10583.4,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 133996 - Despesas R$ 176,35  "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 45000.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Receb. Emprestimo Sócio Jean                                     "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 45000.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Receb. Emprestimo Sócio Jean                                     "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 2640.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006726 - Eleicao 2024 Gustavo Stra/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 1230.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006730 - Eleicao 2024 Maria de Lou/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-17",
+            "        Entradas": 0.0,
+            "          Saídas": 74272.0,
+            "Descrição                                                        ": "Transf. conta garantida                                          "
+        },
+        {
+            "Data    ": "2024-09-18",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/17 - Ingra (CP04585)                        "
+        },
+        {
+            "Data    ": "2024-09-19",
+            "        Entradas": 300.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006698 - Apta/Boleto                                 "
+        },
+        {
+            "Data    ": "2024-09-19",
+            "        Entradas": 0.0,
+            "          Saídas": 6.7,
+            "Descrição                                                        ": "Pgto.doc : 000002334 - Nacional Equipamentos de (NFFO022534)     "
+        },
+        {
+            "Data    ": "2024-09-19",
+            "        Entradas": 0.0,
+            "          Saídas": 864.41,
+            "Descrição                                                        ": "Pgto.doc : 000050906 - Kgepel - SC (NFFO022326)                  "
+        },
+        {
+            "Data    ": "2024-09-19",
+            "        Entradas": 0.0,
+            "          Saídas": 1148.33,
+            "Descrição                                                        ": "Pgto.doc : 000049530/2 - Kgepel - SC (NFFO022029/2)              "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 13300.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Recebimento conta garantida                                      "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 250.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. BB p/ Itau                                               "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 1250.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. Bradesco p/ Itau                                         "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 11109.13,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 134137 - Despesas R$ 188,37  "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 2600.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006743 - Eleicao 2024 Luiz Carlos /Boleto            "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.04,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rendimento aplicação automatica                                  "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 12083.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006699 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 4917.5,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006700 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 16014.02,
+            "Descrição                                                        ": "Pgto.doc : 08/2024 - Das (CP04747)                               "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 3894.95,
+            "Descrição                                                        ": "Pgto.doc : 08/2024 - DCTF (GPS) (CP04733)                        "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 2618.89,
+            "Descrição                                                        ": "Pgto.doc : 08/2024 - FGTS (CP04724)                              "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 3100.0,
+            "Descrição                                                        ": "Pgto.doc : 000001082/18 - Ingra (CP04586)                        "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 2060.0,
+            "Descrição                                                        ": "Pgto.doc : 000001088/3 - Ingra (NFFO021458/3)                    "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 2714.0,
+            "Descrição                                                        ": "Pgto.doc : 000050445/1 - Kgepel - SC (NFFO022237/1)              "
+        },
+        {
+            "Data    ": "2024-09-20",
+            "        Entradas": 0.0,
+            "          Saídas": 13820.0,
+            "Descrição                                                        ": "Pgto.doc : 09/2024 - Pagto Funcionários (CP04743)                "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 600.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Receb. conta garantida                                           "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 1500.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. BB p/ Itau                                               "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 0.0,
+            "          Saídas": 1307.6,
+            "Descrição                                                        ": "Pgto.doc : 000023698/1 - Papeliny (NFFO022241/1)                 "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 0.0,
+            "          Saídas": 616.0,
+            "Descrição                                                        ": "Pgto.doc : 000006363 - DC Distribuidora (NFFO022283)             "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 0.0,
+            "          Saídas": 517.78,
+            "Descrição                                                        ": "Pgto.doc : 000212613/2 - Dicapel Campos Novos (NFFO022101/2)     "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 0.0,
+            "          Saídas": 2117.17,
+            "Descrição                                                        ": "Pgto.doc : 000119044/1 - Papel Ecologico (NFFO022272/1)          "
+        },
+        {
+            "Data    ": "2024-09-23",
+            "        Entradas": 0.0,
+            "          Saídas": 262.29,
+            "Descrição                                                        ": "Pgto.doc : 08/12 - Seguro de Vida Itaú (DF00049/08)              "
+        },
+        {
+            "Data    ": "2024-09-24",
+            "        Entradas": 1280.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006747 - Eleicao 2024 Vilson Gomes/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-24",
+            "        Entradas": 0.03,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rendimento aplicação automática                                  "
+        },
+        {
+            "Data    ": "2024-09-24",
+            "        Entradas": 0.0,
+            "          Saídas": 13900.0,
+            "Descrição                                                        ": "Transf. conta garantida                                          "
+        },
+        {
+            "Data    ": "2024-09-24",
+            "        Entradas": 0.0,
+            "          Saídas": 4300.0,
+            "Descrição                                                        ": "Dev Emprestimo Campograf P/ Ingrafic                             "
+        },
+        {
+            "Data    ": "2024-09-25",
+            "        Entradas": 1500.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006682/02 - Tróppel/Boleto                           "
+        },
+        {
+            "Data    ": "2024-09-26",
+            "        Entradas": 675.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006749 - Eleicao 2024 Dilco Angelo/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-26",
+            "        Entradas": 13822.82,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Desconto De Títulos Belluno Borderô 134295 - Despesas R$ 407,28  "
+        },
+        {
+            "Data    ": "2024-09-26",
+            "        Entradas": 0.0,
+            "          Saídas": 651.82,
+            "Descrição                                                        ": "Pgto.doc : 000004857 - Ondulapack Industria e Co (NFFO022539)    "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 1604.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006762 - Colegio San Marco/Boleto                    "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 2178.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006719 - Eleicao 2024 Mauricio Riv/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 2060.0,
+            "Descrição                                                        ": "Pgto.doc : 000001088/5 - Ingra (NFFO021458/5)                    "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 537.97,
+            "Descrição                                                        ": "Pgto.doc : 000051026/1 - Kgepel - SC (NFFO022333/1)              "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 1732.79,
+            "Descrição                                                        ": "Pgto.doc : 000119150/1 - Papel Ecologico (NFFO022336/1)          "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 1464.91,
+            "Descrição                                                        ": "Pgto.doc : 000042444/3 - Quimagraf/ Itajaí (NFFO021938/3)        "
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 706.45,
+            "Descrição                                                        ": "Pgto.doc : 000072976/3 - Technocoat Artefatos de P (NFFO021924/3)"
+        },
+        {
+            "Data    ": "2024-09-27",
+            "        Entradas": 0.0,
+            "          Saídas": 7.6,
+            "Descrição                                                        ": "Tarifa cobrança                                                  "
+        },
+        {
+            "Data    ": "2024-09-30",
+            "        Entradas": 3000.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Transf. Inter P/ Itau                                            "
+        },
+        {
+            "Data    ": "2024-09-30",
+            "        Entradas": 6860.0,
+            "          Saídas": 0.0,
+            "Descrição                                                        ": "Rec.doc : 21006763 - Escola Municipal 1° de Ma/Boleto            "
+        },
+        {
+            "Data    ": "2024-09-30",
+            "        Entradas": 0.0,
+            "          Saídas": 7000.0,
+            "Descrição                                                        ": "Devolução emprestimo Campograf p/ Ingrafic                       "
+        },
+        {
+            "Data    ": "2024-09-30",
+            "        Entradas": 0.0,
+            "          Saídas": 652.22,
+            "Descrição                                                        ": "Pgto.doc : 000004861 - Ondulapack Industria e Co (NFFO022568)    "
+        },
+        {
+            "Data    ": "2024-09-30",
+            "        Entradas": 0.0,
+            "          Saídas": 2211.32,
+            "Descrição                                                        ": "Pgto.doc : 29/188 - Das (CP04730)                                "
+        }
+    ]
+}

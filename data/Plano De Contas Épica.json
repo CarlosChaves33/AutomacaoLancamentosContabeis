@@ -1,0 +1,1881 @@
+{
+    "empresa": "GRAFICA EPICA LTDA",
+    "contas": [
+        {
+            "codigo": "1",
+            "tipo": "S",
+            "classificacao": "1",
+            "nome": "Ativo",
+            "grau": 1
+        },
+        {
+            "codigo": "2",
+            "tipo": "S",
+            "classificacao": "1.1",
+            "nome": "Ativo Circulante",
+            "grau": 2
+        },
+        {
+            "codigo": "3",
+            "tipo": "S",
+            "classificacao": "1.1.01",
+            "nome": "Caixa e Equivalentes de Caixa",
+            "grau": 3
+        },
+        {
+            "codigo": "4",
+            "tipo": "S",
+            "classificacao": "1.1.01.01",
+            "nome": "Caixa Geral",
+            "grau": 4
+        },
+        {
+            "codigo": "5",
+            "tipo": "",
+            "classificacao": "1.1.01.01.00001",
+            "nome": "Caixa Matriz",
+            "grau": 5
+        },
+        {
+            "codigo": "20",
+            "tipo": "S",
+            "classificacao": "1.1.01.02",
+            "nome": "Bancos Contas Disposição",
+            "grau": 4
+        },
+        {
+            "codigo": "27",
+            "tipo": "",
+            "classificacao": "1.1.01.02.00007",
+            "nome": "Banco Inter",
+            "grau": 5
+        },
+        {
+            "codigo": "120",
+            "tipo": "S",
+            "classificacao": "1.1.01.09",
+            "nome": "Numerários em transito",
+            "grau": 4
+        },
+        {
+            "codigo": "121",
+            "tipo": "",
+            "classificacao": "1.1.01.09.00001",
+            "nome": "Numerários em Transito",
+            "grau": 5
+        },
+        {
+            "codigo": "125",
+            "tipo": "",
+            "classificacao": "1.1.01.09.00005",
+            "nome": "Conta Transitória Recebimentos",
+            "grau": 5
+        },
+        {
+            "codigo": "150",
+            "tipo": "S",
+            "classificacao": "1.1.02",
+            "nome": "Contas a Receber de Clientes",
+            "grau": 3
+        },
+        {
+            "codigo": "151",
+            "tipo": "S",
+            "classificacao": "1.1.02.01",
+            "nome": "Clientes a Receber",
+            "grau": 4
+        },
+        {
+            "codigo": "187",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00039",
+            "nome": "Vitalseg Sistemas de Alarmes Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "204",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00056",
+            "nome": "Pandolfo e Cardoso Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "206",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00058",
+            "nome": "Disk Confeccoes In. e Com. Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "207",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00059",
+            "nome": "Enerbras Materiais Eletricos Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "242",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00094",
+            "nome": "Mendesul Seg. do Trab. e Meio Ambiente Ltda.",
+            "grau": 5
+        },
+        {
+            "codigo": "254",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00106",
+            "nome": "Radan Industria de Produtos de Limpeza Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "256",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00108",
+            "nome": "Paroquia Santuario de Sta Teresinha do Menino Jesus",
+            "grau": 5
+        },
+        {
+            "codigo": "312",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00164",
+            "nome": "Ed Santos Marketing Ltda Me",
+            "grau": 5
+        },
+        {
+            "codigo": "334",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00186",
+            "nome": "Apmf Escola Mun. Carlos Drumond de Andrade",
+            "grau": 5
+        },
+        {
+            "codigo": "346",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00198",
+            "nome": "APMF Escola Municipal Jose Alexandre Savio",
+            "grau": 5
+        },
+        {
+            "codigo": "381",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00233",
+            "nome": "Apmf Escola Municipal Joao Santana",
+            "grau": 5
+        },
+        {
+            "codigo": "410",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00263",
+            "nome": "Baggio Agua Verde Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "411",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00264",
+            "nome": "A.P.A. Pereira e Cia Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "414",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00267",
+            "nome": "Klimak Pizzaria Ltda",
+            "grau": 5
+        },
+        {
+            "codigo": "71029",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00373",
+            "nome": "APMF DO CMEI RENATO HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "71046",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00391",
+            "nome": "MUNICIPIO DE ARAUCARIA",
+            "grau": 5
+        },
+        {
+            "codigo": "71063",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00404",
+            "nome": "SUPERMERCADO O BARRACAO",
+            "grau": 5
+        },
+        {
+            "codigo": "71079",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00420",
+            "nome": "BOLACHAS VOVO ELZA LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71108",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00442",
+            "nome": "TESSERVE RECEPCAO E COBRANCA S/S LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71130",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00461",
+            "nome": "INDUSTRIA E COMERCIO DE CARNES BELVEDERE LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71145",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00467",
+            "nome": "SANTA FELICIDADE PIZZARIA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71176",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00499",
+            "nome": "GILTON NEUBER EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71269",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00576",
+            "nome": "GILBERTO AGNER DE BONFIM VEICULOS",
+            "grau": 5
+        },
+        {
+            "codigo": "71290",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00597",
+            "nome": "PRECONIZ COMERCIO DE UTILIDADES DOMESTICAS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71306",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00609",
+            "nome": "CALTEC QUIMICA INDUSTRIAL S/A",
+            "grau": 5
+        },
+        {
+            "codigo": "71335",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00631",
+            "nome": "J&M PIZZARIA LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71387",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00674",
+            "nome": "CENTRO DE CRIADORES DE CANARIOS DE CL",
+            "grau": 5
+        },
+        {
+            "codigo": "71418",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00696",
+            "nome": "TRAFOTRON INDUSTRIA E COMERCIO DE TRANSFORMADORES ELETRICOS",
+            "grau": 5
+        },
+        {
+            "codigo": "71435",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00713",
+            "nome": "OURO NEGRO ALIMENTOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71442",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00718",
+            "nome": "ARS SERVCON ADMINISTRACAO E COBRANCAS CONDOMINIAIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71457",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00731",
+            "nome": "CLASSIC LAR INDUSTRIA E COMERCIO DE ARTEFATOS LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71481",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00752",
+            "nome": "BAGIO MOEMA LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71489",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00760",
+            "nome": "BIO BLEND FOODS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71498",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00768",
+            "nome": "COMPENSADOS BONARDI LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71505",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00775",
+            "nome": "GMIX DE COMUNICACAO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71530",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00801",
+            "nome": "CABS INTERNATIONAL LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71532",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00803",
+            "nome": "PJB ALIMENTOS DO BRASIL LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71546",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00817",
+            "nome": "HOSPITAL DE OLHOS DO PARANA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71548",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00819",
+            "nome": "KRIK PIZZARIA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71601",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00864",
+            "nome": "IMOBILIARIA ACESSO LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71610",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00871",
+            "nome": "ESCOLA CASINHA DO SABER TOCO DE GENTE EDUCACAO INFANTIL E EN",
+            "grau": 5
+        },
+        {
+            "codigo": "458",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00880",
+            "nome": "ABEL ALVES BELINI",
+            "grau": 5
+        },
+        {
+            "codigo": "71657",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00912",
+            "nome": "CRISTIANO GOGOLA RAMOS LANCHES E BEBIDAS",
+            "grau": 5
+        },
+        {
+            "codigo": "71700",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00947",
+            "nome": "VERMONTH COMERCIO E IMPORTACAO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71713",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00958",
+            "nome": "SEMPRE VIVA ADMINISTRACAO DE CONDOMINIOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71714",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00959",
+            "nome": "INSTITUTO SOS 4 PATAS PARANA",
+            "grau": 5
+        },
+        {
+            "codigo": "71715",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00960",
+            "nome": "ETHILLA CERVEJARIA ARTESANAL LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71716",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00961",
+            "nome": "HUAWEI DO BRASIL TELECOMUNICACOES LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71717",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00962",
+            "nome": "MIL INDUSTRIA E COMERCIO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71718",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00963",
+            "nome": "HOLAN10 LOCACO DE EQUIPAMENTOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71722",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00964",
+            "nome": "CLAUDIONEIA DADAS DE OLIVEIRA FABRICACAO DE MATERIAIS PARA M",
+            "grau": 5
+        },
+        {
+            "codigo": "71723",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00965",
+            "nome": "LUIZ EDUARDO DE CRISTO 07623185977",
+            "grau": 5
+        },
+        {
+            "codigo": "71724",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00966",
+            "nome": "PECUAGRO - COMERCIO DE RACOES LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71725",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00967",
+            "nome": "DIFERENCIAL SERVICOS TERCEIRIZADOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71726",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00968",
+            "nome": "SHE LOJINHA GAD LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71728",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00970",
+            "nome": "BANCO DO BRASIL SA",
+            "grau": 5
+        },
+        {
+            "codigo": "71736",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00971",
+            "nome": "BRASIL RESGATE REMOCOES DE VEICULOS EIRELI ME",
+            "grau": 5
+        },
+        {
+            "codigo": "71751",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00977",
+            "nome": "ARI PEREIRA DE OLIVEIRA",
+            "grau": 5
+        },
+        {
+            "codigo": "71752",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00978",
+            "nome": "ONDINA MOREIRA",
+            "grau": 5
+        },
+        {
+            "codigo": "71753",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00979",
+            "nome": "LAIS BERTOLAZO",
+            "grau": 5
+        },
+        {
+            "codigo": "71754",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00980",
+            "nome": "CLANA JOIAS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71755",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00981",
+            "nome": "MESTRA FARMACIA DE MANIPULACAO E HOMEOPATIA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71757",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00982",
+            "nome": "ARINGLES MODA INFANTIL LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71758",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00983",
+            "nome": "APTA- ASSOCIACAO DE PESQUISA E TRATAMENTO DO ALCOOLISMO",
+            "grau": 5
+        },
+        {
+            "codigo": "71759",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00984",
+            "nome": "AGENCIALE PUBLICIDADE LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71760",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00985",
+            "nome": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS EM BALSA NOVA",
+            "grau": 5
+        },
+        {
+            "codigo": "71761",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00986",
+            "nome": "RELOPECAS COMERCIO DE PECAS PARA RELOGIOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71762",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00987",
+            "nome": "VERSA METAL DESIGN LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71765",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00988",
+            "nome": "BOARON COMERCIAL EIRELI - ME",
+            "grau": 5
+        },
+        {
+            "codigo": "71766",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00989",
+            "nome": "SHE LOJINHA AMP LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71767",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00990",
+            "nome": "52.670.561 TIAGO GABRIEL SUREK",
+            "grau": 5
+        },
+        {
+            "codigo": "71768",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00991",
+            "nome": "GALETERIA MM CAMPO LARGO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71769",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00992",
+            "nome": "MARGARETH OLIVEIRA DE SOUZA 15209132811",
+            "grau": 5
+        },
+        {
+            "codigo": "71770",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00993",
+            "nome": "CATIELLEN FERNANDA MOREIRA GUERRA",
+            "grau": 5
+        },
+        {
+            "codigo": "71772",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00994",
+            "nome": "FEDATTO RESTAURANTE E LANCHONETE LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71773",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00995",
+            "nome": "L & P COMERCIO DE ALIMENTOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71774",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00996",
+            "nome": "LADY & LORD ESTACAO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71775",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00997",
+            "nome": "TIAGO QUEIROZ DE ALMEIDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71776",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00998",
+            "nome": "49.040.748 DOUGLAS FEDRO DO CARMO",
+            "grau": 5
+        },
+        {
+            "codigo": "71777",
+            "tipo": "",
+            "classificacao": "1.1.02.01.00999",
+            "nome": "CLINICA MEDICA SAN GABRIEL LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71778",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01000",
+            "nome": "MONTAZA MONTAGENS FABRICACAO E MANUTENCAO LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71779",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01001",
+            "nome": "CAMPO LARGO IND DE PRODUTOS DE LIMPEZA E HIGIENE LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71780",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01002",
+            "nome": "GABRIELA GUIMARAES GIANCRISTOFARO",
+            "grau": 5
+        },
+        {
+            "codigo": "71781",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01003",
+            "nome": "BRUNO POLAK",
+            "grau": 5
+        },
+        {
+            "codigo": "71783",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01004",
+            "nome": "ICEA - LOJA DE ESTOFADOS E MOVEIS LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71784",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01005",
+            "nome": "AMBIANCE PARTICIPACOES SOCIETARIAS S.A.",
+            "grau": 5
+        },
+        {
+            "codigo": "71785",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01006",
+            "nome": "TRAILEMAR COMERCIO DE VEICULOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71786",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01007",
+            "nome": "CADARN CONSULTORIA E PROJETOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71787",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01008",
+            "nome": "BRUTALI LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71788",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01009",
+            "nome": "CLIMACAMPO COMERCIO DE PECAS DE AUTOMOVEIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71789",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01010",
+            "nome": "GS - GESTORA DE SERVICOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71790",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01011",
+            "nome": "KORT INDUSTRIA DE ARTEFATOS DE MADEIRA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71793",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01012",
+            "nome": "PREVENCAO ASAMI VACINAS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71794",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01013",
+            "nome": "BIOPOL EMBALAGENS",
+            "grau": 5
+        },
+        {
+            "codigo": "71795",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01014",
+            "nome": "SIEL - MOVEIS E DECORACOES LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71796",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01015",
+            "nome": "HERICLIS FERNANDO SANTOS MOREIRA",
+            "grau": 5
+        },
+        {
+            "codigo": "71797",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01016",
+            "nome": "BOLICHO 27 LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71798",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01017",
+            "nome": "BKG CALCADOS LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71799",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01018",
+            "nome": "DENTAL CASA DAS BROCAS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71801",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01019",
+            "nome": "EHLER REPRESENTACOES COMERCIAIS EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71804",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01020",
+            "nome": "NOELI INOCENCIA TURIBIODERAMOS",
+            "grau": 5
+        },
+        {
+            "codigo": "71805",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01021",
+            "nome": "CRISTINA ABDO",
+            "grau": 5
+        },
+        {
+            "codigo": "71806",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01022",
+            "nome": "ALINE KUKLIK FEDALTO AMORIM",
+            "grau": 5
+        },
+        {
+            "codigo": "71807",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01023",
+            "nome": "NICOLE MASOTTI LAPUENTE",
+            "grau": 5
+        },
+        {
+            "codigo": "71813",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01024",
+            "nome": "DIVINA CANTINA ITALIANA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71814",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01025",
+            "nome": "ALL FILTROS INDUSTRIA E COMERCIO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71815",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01026",
+            "nome": "MUTTI DECOR IND COM ATACADISTA VAREJISTA LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71816",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01027",
+            "nome": "MASTER LONAS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71817",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01028",
+            "nome": "FAZENDA MARGARIDA ALIMENTOS SAUDAVEIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71818",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01029",
+            "nome": "RESTAURACAO GEQUELIN LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71819",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01030",
+            "nome": "A. CALSSONE DOCES LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71820",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01031",
+            "nome": "NACIONAL EQUIPAMENTOS DE PROTECAO LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71821",
+            "tipo": "",
+            "classificacao": "1.1.02.01.01032",
+            "nome": "BOLACHAS VOVO ELZA COMERCIO ELETRONICO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "10020",
+            "tipo": "S",
+            "classificacao": "1.1.02.03",
+            "nome": "(-) Duplicatas Descontadas",
+            "grau": 4
+        },
+        {
+            "codigo": "71368",
+            "tipo": "",
+            "classificacao": "1.1.02.03.00003",
+            "nome": "(-) Belluno Fundo de Investimentos",
+            "grau": 5
+        },
+        {
+            "codigo": "10700",
+            "tipo": "S",
+            "classificacao": "1.2",
+            "nome": "Ativo Não Circulante",
+            "grau": 2
+        },
+        {
+            "codigo": "10701",
+            "tipo": "S",
+            "classificacao": "1.2.01",
+            "nome": "Realizável a Longo Prazo",
+            "grau": 3
+        },
+        {
+            "codigo": "10790",
+            "tipo": "S",
+            "classificacao": "1.2.01.06",
+            "nome": "Emprestimos Concedidos",
+            "grau": 4
+        },
+        {
+            "codigo": "10793",
+            "tipo": "",
+            "classificacao": "1.2.01.06.00003",
+            "nome": "Ingrafic Gráfica - Eireli - EPP",
+            "grau": 5
+        },
+        {
+            "codigo": "10794",
+            "tipo": "",
+            "classificacao": "1.2.01.06.00004",
+            "nome": "Campograf Eireli - EPP",
+            "grau": 5
+        },
+        {
+            "codigo": "10795",
+            "tipo": "",
+            "classificacao": "1.2.01.06.00005",
+            "nome": "Vanessa Hft Passos",
+            "grau": 5
+        },
+        {
+            "codigo": "11930",
+            "tipo": "S",
+            "classificacao": "1.9",
+            "nome": "Ativo Compensado",
+            "grau": 2
+        },
+        {
+            "codigo": "11931",
+            "tipo": "S",
+            "classificacao": "1.9.01",
+            "nome": "Remessas",
+            "grau": 3
+        },
+        {
+            "codigo": "11935",
+            "tipo": "S",
+            "classificacao": "1.9.01.01",
+            "nome": "Remessa para Conserto",
+            "grau": 4
+        },
+        {
+            "codigo": "11932",
+            "tipo": "",
+            "classificacao": "1.9.01.01.00001",
+            "nome": "Remessa de Merc. P/ Conserto ou Reparo",
+            "grau": 5
+        },
+        {
+            "codigo": "11990",
+            "tipo": "S",
+            "classificacao": "1.9.01.07",
+            "nome": "Remessa p/ Industrialização",
+            "grau": 4
+        },
+        {
+            "codigo": "11991",
+            "tipo": "",
+            "classificacao": "1.9.01.07.00001",
+            "nome": "Remessa p/ Industrialização",
+            "grau": 5
+        },
+        {
+            "codigo": "12000",
+            "tipo": "S",
+            "classificacao": "2",
+            "nome": "Passivo e Patrimônio Líquido",
+            "grau": 1
+        },
+        {
+            "codigo": "12001",
+            "tipo": "S",
+            "classificacao": "2.1",
+            "nome": "Passivo Circulante",
+            "grau": 2
+        },
+        {
+            "codigo": "12002",
+            "tipo": "S",
+            "classificacao": "2.1.01",
+            "nome": "Fornecedores",
+            "grau": 3
+        },
+        {
+            "codigo": "12003",
+            "tipo": "S",
+            "classificacao": "2.1.01.01",
+            "nome": "Fornecedores Operacionais",
+            "grau": 4
+        },
+        {
+            "codigo": "12011",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10021",
+            "nome": "LEANDRO DO CARMO",
+            "grau": 5
+        },
+        {
+            "codigo": "12017",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10027",
+            "nome": "TRANSPALMAS TRANSP E LOGISTICA",
+            "grau": 5
+        },
+        {
+            "codigo": "12022",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10032",
+            "nome": "LEANDRO RAFAEL DE MAMAM",
+            "grau": 5
+        },
+        {
+            "codigo": "12027",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10037",
+            "nome": "ANNI BEATRIZ HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "12037",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10047",
+            "nome": "VANDA SAJNAJ FERREIRA & CIA LTDA ( MULTIFORME )",
+            "grau": 5
+        },
+        {
+            "codigo": "12038",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10048",
+            "nome": "GROSSMAN E ANDRADE LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "12058",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10068",
+            "nome": "DICAPEL PAPEIS E EMBALAGENS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "12065",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10075",
+            "nome": "EBO STUDIO LTDA - ME",
+            "grau": 5
+        },
+        {
+            "codigo": "12076",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10086",
+            "nome": "Certisign Certificadora Digital S/A",
+            "grau": 5
+        },
+        {
+            "codigo": "12083",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10093",
+            "nome": "SAGSE COMERCIO E SERVICOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "12085",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10095",
+            "nome": "RODONAVES TRANSPORTES E ENCOMENDAS",
+            "grau": 5
+        },
+        {
+            "codigo": "12094",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10103",
+            "nome": "KGEPEL PAPEIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "70943",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10108",
+            "nome": "RIO BRANCO COM. E IND. DE PAPEIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "70944",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10109",
+            "nome": "PASSALACQUA & CIA LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71100",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10142",
+            "nome": "INGRA INDUSTRIA GRAFICA S/A",
+            "grau": 5
+        },
+        {
+            "codigo": "71109",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10143",
+            "nome": "RUDNICK REPRESENTAÇÕES COMERCIAIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71186",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10159",
+            "nome": "BLUFACAS INDUSTRIA E COMERCIO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71238",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10167",
+            "nome": "DC DISTRIBUIDORA DE PRODUTOS GRAFICOS EIRELI - EPP",
+            "grau": 5
+        },
+        {
+            "codigo": "71242",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10171",
+            "nome": "ERNANI DARNS RATHIER DE SOUZA 18697070953",
+            "grau": 5
+        },
+        {
+            "codigo": "71251",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10176",
+            "nome": "RENE BORGES",
+            "grau": 5
+        },
+        {
+            "codigo": "71354",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10193",
+            "nome": "AUTO POSTO 2L LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71614",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10227",
+            "nome": "ARTHUR HENRIQUE HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "71628",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10229",
+            "nome": "LUCILENA VIEIRA BORGES",
+            "grau": 5
+        },
+        {
+            "codigo": "71629",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10230",
+            "nome": "RENATA HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "71630",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10231",
+            "nome": "CASSIANO LUIS FALAT",
+            "grau": 5
+        },
+        {
+            "codigo": "71631",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10232",
+            "nome": "MARIA DA LUZ HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "71650",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10234",
+            "nome": "COPIADORA CAJURU EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71652",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10236",
+            "nome": "JOANA CELLI STEIN FERREIRA DA SILVA",
+            "grau": 5
+        },
+        {
+            "codigo": "71681",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10244",
+            "nome": "DEBORA HOFT PASSOS",
+            "grau": 5
+        },
+        {
+            "codigo": "71682",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10245",
+            "nome": "FABIO CORDEIRO DE SOUZA JUNIOR 08898489986",
+            "grau": 5
+        },
+        {
+            "codigo": "71719",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10249",
+            "nome": "EDENILSON MACIEL DE LIMA AGENCIA DE PUBLICIDADE LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71720",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10250",
+            "nome": "FOTOPOLIMEROS FAST SYSTEM CLICHES E FOTO",
+            "grau": 5
+        },
+        {
+            "codigo": "71721",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10251",
+            "nome": "QUIMAGRAF IND. E COM. DE MAT. LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71729",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10252",
+            "nome": "SACO PRONTO EMBALAGENS EIRELI ME",
+            "grau": 5
+        },
+        {
+            "codigo": "71730",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10253",
+            "nome": "TERA INDUSTRIA DE PAPEIS - EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71731",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10254",
+            "nome": "DETALLIA FITAS TEXTEIS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71732",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10255",
+            "nome": "ACTOS COM. IMP. EXP. LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71733",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10256",
+            "nome": "EDIVALDO APARECIDO DA SILVA",
+            "grau": 5
+        },
+        {
+            "codigo": "71734",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10257",
+            "nome": "RODRIGO STAVITZKI",
+            "grau": 5
+        },
+        {
+            "codigo": "71735",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10258",
+            "nome": "WIN LIDER COMERCIO E MANUTENCAO DE EXTINTORES LTDA.",
+            "grau": 5
+        },
+        {
+            "codigo": "71737",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10259",
+            "nome": "AUTO POSTO MIRANTE LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71738",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10260",
+            "nome": "VAREMAX INDÚSTRIA E COMÉRCIO DE VARETAS LTDA ME",
+            "grau": 5
+        },
+        {
+            "codigo": "71739",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10261",
+            "nome": "PAPEL ECOLOGICO INDUSTRIA E COMERCIO - EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71740",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10262",
+            "nome": "PAULO DE TARSO BOARÃO",
+            "grau": 5
+        },
+        {
+            "codigo": "71744",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10266",
+            "nome": "B. TRANSPORTES LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71745",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10267",
+            "nome": "B.TRASNPORTES LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71756",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10268",
+            "nome": "FOREST PAPER INDUSTRIA E COMERCIO PAPEL S.A",
+            "grau": 5
+        },
+        {
+            "codigo": "71763",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10269",
+            "nome": "MARCIO PARTEZANI EIRELI",
+            "grau": 5
+        },
+        {
+            "codigo": "71764",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10270",
+            "nome": "JOSE LUIZ PEREIRA DOS REIS 06673143932",
+            "grau": 5
+        },
+        {
+            "codigo": "71771",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10271",
+            "nome": "BRASCORDAS ARTIGOS DE ARMARINHOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71782",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10272",
+            "nome": "CASCAVEL - EXPRESSO SAO MIGUEL S/A",
+            "grau": 5
+        },
+        {
+            "codigo": "71791",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10273",
+            "nome": "DAVI SANCHES HOFT",
+            "grau": 5
+        },
+        {
+            "codigo": "71792",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10274",
+            "nome": "RENAN LUIS PINTO TIEPOLO 07394937950",
+            "grau": 5
+        },
+        {
+            "codigo": "71800",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10275",
+            "nome": "CONCORDE LOGISTICA E DISTRIBUICAO LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71802",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10276",
+            "nome": "G BOARAO COMERCIO E SERVICOS ELETRONICOS",
+            "grau": 5
+        },
+        {
+            "codigo": "71803",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10277",
+            "nome": "CURITIBA - EXPRESSO SAO MIGUEL S/A",
+            "grau": 5
+        },
+        {
+            "codigo": "71809",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10279",
+            "nome": "INOVACAO INDUSTRIAL E COMERCIO DE ARTIGOS PLASTICOS LTDA",
+            "grau": 5
+        },
+        {
+            "codigo": "71812",
+            "tipo": "",
+            "classificacao": "2.1.01.01.10282",
+            "nome": "CABANA SANTA MARIANA RESTAURANTE RURAL L",
+            "grau": 5
+        },
+        {
+            "codigo": "22000",
+            "tipo": "S",
+            "classificacao": "2.1.02",
+            "nome": "Empréstimos e Financiamentos",
+            "grau": 3
+        },
+        {
+            "codigo": "22001",
+            "tipo": "S",
+            "classificacao": "2.1.02.01",
+            "nome": "Empréstimos",
+            "grau": 4
+        },
+        {
+            "codigo": "22020",
+            "tipo": "",
+            "classificacao": "2.1.02.01.00014",
+            "nome": "Campograf Eireli - EPP",
+            "grau": 5
+        },
+        {
+            "codigo": "22160",
+            "tipo": "S",
+            "classificacao": "2.1.03",
+            "nome": "Obrigações Tributárias",
+            "grau": 3
+        },
+        {
+            "codigo": "22161",
+            "tipo": "S",
+            "classificacao": "2.1.03.01",
+            "nome": "Obrigações Tributárias Federais",
+            "grau": 4
+        },
+        {
+            "codigo": "22175",
+            "tipo": "",
+            "classificacao": "2.1.03.01.00014",
+            "nome": "Simples Nacional a Recolher",
+            "grau": 5
+        },
+        {
+            "codigo": "22300",
+            "tipo": "S",
+            "classificacao": "2.1.05",
+            "nome": "Credores Operacionais",
+            "grau": 3
+        },
+        {
+            "codigo": "22301",
+            "tipo": "S",
+            "classificacao": "2.1.05.01",
+            "nome": "Adiantamento de Clientes",
+            "grau": 4
+        },
+        {
+            "codigo": "22302",
+            "tipo": "",
+            "classificacao": "2.1.05.01.00001",
+            "nome": "Adiantamento de Clientes",
+            "grau": 5
+        },
+        {
+            "codigo": "23000",
+            "tipo": "S",
+            "classificacao": "2.2",
+            "nome": "Passivo Não Circulante",
+            "grau": 2
+        },
+        {
+            "codigo": "23440",
+            "tipo": "S",
+            "classificacao": "2.2.08",
+            "nome": "Débitos e Valores",
+            "grau": 3
+        },
+        {
+            "codigo": "23460",
+            "tipo": "S",
+            "classificacao": "2.2.08.03",
+            "nome": "Divida com Sócios Quotistas",
+            "grau": 4
+        },
+        {
+            "codigo": "23463",
+            "tipo": "",
+            "classificacao": "2.2.08.03.00003",
+            "nome": "Jean Francisco Hoft",
+            "grau": 5
+        },
+        {
+            "codigo": "23464",
+            "tipo": "",
+            "classificacao": "2.2.08.03.00004",
+            "nome": "Vanessa Hoft Passos",
+            "grau": 5
+        },
+        {
+            "codigo": "24000",
+            "tipo": "S",
+            "classificacao": "2.4",
+            "nome": "Patrimonio Líquido",
+            "grau": 2
+        },
+        {
+            "codigo": "24001",
+            "tipo": "S",
+            "classificacao": "2.4.01",
+            "nome": "Capital Social",
+            "grau": 3
+        },
+        {
+            "codigo": "24002",
+            "tipo": "S",
+            "classificacao": "2.4.01.01",
+            "nome": "Capital Registrado/Subscrito",
+            "grau": 4
+        },
+        {
+            "codigo": "24005",
+            "tipo": "",
+            "classificacao": "2.4.01.01.00003",
+            "nome": "Jean Francisco Hoft",
+            "grau": 5
+        },
+        {
+            "codigo": "24006",
+            "tipo": "",
+            "classificacao": "2.4.01.01.00004",
+            "nome": "Vanessa Hoft Passos",
+            "grau": 5
+        },
+        {
+            "codigo": "24300",
+            "tipo": "S",
+            "classificacao": "2.4.05",
+            "nome": "Lucros ou Prejuizos Acumulados",
+            "grau": 3
+        },
+        {
+            "codigo": "24330",
+            "tipo": "S",
+            "classificacao": "2.4.05.03",
+            "nome": "Resultado do Exercício",
+            "grau": 4
+        },
+        {
+            "codigo": "24333",
+            "tipo": "",
+            "classificacao": "2.4.05.03.00003",
+            "nome": "Lucro do Exercício",
+            "grau": 5
+        },
+        {
+            "codigo": "25000",
+            "tipo": "S",
+            "classificacao": "2.9",
+            "nome": "Passivo Compensado",
+            "grau": 2
+        },
+        {
+            "codigo": "25001",
+            "tipo": "S",
+            "classificacao": "2.9.01",
+            "nome": "Compensado",
+            "grau": 3
+        },
+        {
+            "codigo": "25050",
+            "tipo": "S",
+            "classificacao": "2.9.01.05",
+            "nome": "Remessa para conserto",
+            "grau": 4
+        },
+        {
+            "codigo": "25051",
+            "tipo": "",
+            "classificacao": "2.9.01.05.00001",
+            "nome": "Remessa de Merc. P/ Conserto ou Reparo",
+            "grau": 5
+        },
+        {
+            "codigo": "25120",
+            "tipo": "S",
+            "classificacao": "2.9.01.07",
+            "nome": "Remessa p/ Industrialização",
+            "grau": 4
+        },
+        {
+            "codigo": "25121",
+            "tipo": "",
+            "classificacao": "2.9.01.07.00001",
+            "nome": "Remessa p/ Industrialização",
+            "grau": 5
+        },
+        {
+            "codigo": "30000",
+            "tipo": "S",
+            "classificacao": "3",
+            "nome": "Resultado Líquido do Exercício",
+            "grau": 1
+        },
+        {
+            "codigo": "31000",
+            "tipo": "S",
+            "classificacao": "3.1",
+            "nome": "Receita Liquida",
+            "grau": 2
+        },
+        {
+            "codigo": "31001",
+            "tipo": "S",
+            "classificacao": "3.1.01",
+            "nome": "Receita Operacional Bruta",
+            "grau": 3
+        },
+        {
+            "codigo": "31002",
+            "tipo": "S",
+            "classificacao": "3.1.01.01",
+            "nome": "Receita de Vendas de Produtos",
+            "grau": 4
+        },
+        {
+            "codigo": "31003",
+            "tipo": "",
+            "classificacao": "3.1.01.01.00001",
+            "nome": "Venda de Produtos",
+            "grau": 5
+        },
+        {
+            "codigo": "31200",
+            "tipo": "S",
+            "classificacao": "3.1.02",
+            "nome": "Deduções da Receita Bruta",
+            "grau": 3
+        },
+        {
+            "codigo": "31201",
+            "tipo": "S",
+            "classificacao": "3.1.02.01",
+            "nome": "Tributos Incidêntes S/ Vendas",
+            "grau": 4
+        },
+        {
+            "codigo": "31213",
+            "tipo": "",
+            "classificacao": "3.1.02.01.00012",
+            "nome": "Simples Nacional",
+            "grau": 5
+        },
+        {
+            "codigo": "32000",
+            "tipo": "S",
+            "classificacao": "3.2",
+            "nome": "Custo das Vendas e Serviços",
+            "grau": 2
+        },
+        {
+            "codigo": "32001",
+            "tipo": "S",
+            "classificacao": "3.2.01",
+            "nome": "Custo das Mercadorias",
+            "grau": 3
+        },
+        {
+            "codigo": "32150",
+            "tipo": "S",
+            "classificacao": "3.2.01.02",
+            "nome": "Compra de Mercadorias para Revenda",
+            "grau": 4
+        },
+        {
+            "codigo": "32155",
+            "tipo": "",
+            "classificacao": "3.2.01.02.00004",
+            "nome": "Fretes s/Compras de Mercadorias",
+            "grau": 5
+        },
+        {
+            "codigo": "32156",
+            "tipo": "",
+            "classificacao": "3.2.01.02.00005",
+            "nome": "(-) Devolução de Compras",
+            "grau": 5
+        },
+        {
+            "codigo": "32220",
+            "tipo": "S",
+            "classificacao": "3.2.03",
+            "nome": "Custo dos Produtos Vendidos",
+            "grau": 3
+        },
+        {
+            "codigo": "32221",
+            "tipo": "S",
+            "classificacao": "3.2.03.01",
+            "nome": "Custo dos Produtos Vendidos",
+            "grau": 4
+        },
+        {
+            "codigo": "32152",
+            "tipo": "",
+            "classificacao": "3.2.03.01.00001",
+            "nome": "Compra de Mercadorias p/ Industrialização",
+            "grau": 5
+        },
+        {
+            "codigo": "33000",
+            "tipo": "S",
+            "classificacao": "3.3",
+            "nome": "Resultados Operacionais",
+            "grau": 2
+        },
+        {
+            "codigo": "33001",
+            "tipo": "S",
+            "classificacao": "3.3.02",
+            "nome": "Despesas Administrativas",
+            "grau": 3
+        },
+        {
+            "codigo": "33050",
+            "tipo": "S",
+            "classificacao": "3.3.02.02",
+            "nome": "Gastos Gerais Administrativos - Matriz",
+            "grau": 4
+        },
+        {
+            "codigo": "33074",
+            "tipo": "",
+            "classificacao": "3.3.02.02.00024",
+            "nome": "Honorários Profissionais",
+            "grau": 5
+        },
+        {
+            "codigo": "33075",
+            "tipo": "",
+            "classificacao": "3.3.02.02.00025",
+            "nome": "Combustíveis e Lubrificantes",
+            "grau": 5
+        },
+        {
+            "codigo": "33094",
+            "tipo": "",
+            "classificacao": "3.3.02.02.00044",
+            "nome": "Serviços Prestado Pessoa Juridica",
+            "grau": 5
+        },
+        {
+            "codigo": "33240",
+            "tipo": "S",
+            "classificacao": "3.3.02.03",
+            "nome": "Impostos e Taxas",
+            "grau": 4
+        },
+        {
+            "codigo": "33244",
+            "tipo": "",
+            "classificacao": "3.3.02.03.00004",
+            "nome": "Taxas Municipais",
+            "grau": 5
+        },
+        {
+            "codigo": "33245",
+            "tipo": "",
+            "classificacao": "3.3.02.03.00005",
+            "nome": "Taxas Estaduais",
+            "grau": 5
+        },
+        {
+            "codigo": "33246",
+            "tipo": "",
+            "classificacao": "3.3.02.03.00006",
+            "nome": "ICMS - DIFAL",
+            "grau": 5
+        },
+        {
+            "codigo": "33720",
+            "tipo": "S",
+            "classificacao": "3.3.07",
+            "nome": "Resultados Financeiros Líquidos",
+            "grau": 3
+        },
+        {
+            "codigo": "33721",
+            "tipo": "S",
+            "classificacao": "3.3.07.01",
+            "nome": "Receitas Financeiras - Matriz",
+            "grau": 4
+        },
+        {
+            "codigo": "33723",
+            "tipo": "",
+            "classificacao": "3.3.07.01.00002",
+            "nome": "Juros Ativos",
+            "grau": 5
+        },
+        {
+            "codigo": "33740",
+            "tipo": "S",
+            "classificacao": "3.3.07.02",
+            "nome": "Despesas Financeiras - Matriz",
+            "grau": 4
+        },
+        {
+            "codigo": "33741",
+            "tipo": "",
+            "classificacao": "3.3.07.02.00001",
+            "nome": "Descontos Concedidos",
+            "grau": 5
+        },
+        {
+            "codigo": "33743",
+            "tipo": "",
+            "classificacao": "3.3.07.02.00003",
+            "nome": "Juros Passivos",
+            "grau": 5
+        },
+        {
+            "codigo": "33747",
+            "tipo": "",
+            "classificacao": "3.3.07.02.00007",
+            "nome": "Despesas Bancarias",
+            "grau": 5
+        },
+        {
+            "codigo": "33752",
+            "tipo": "",
+            "classificacao": "3.3.07.02.00012",
+            "nome": "Perdas Financeiras",
+            "grau": 5
+        },
+        {
+            "codigo": "39000",
+            "tipo": "S",
+            "classificacao": "3.9",
+            "nome": "Resultado do Exercício",
+            "grau": 2
+        },
+        {
+            "codigo": "39001",
+            "tipo": "S",
+            "classificacao": "3.9.01",
+            "nome": "Apuração do Resultado",
+            "grau": 3
+        },
+        {
+            "codigo": "39002",
+            "tipo": "S",
+            "classificacao": "3.9.01.01",
+            "nome": "Encerramento do Exercício",
+            "grau": 4
+        },
+        {
+            "codigo": "39003",
+            "tipo": "",
+            "classificacao": "3.9.01.01.00001",
+            "nome": "Encerramento do Exercício Social",
+            "grau": 5
+        },
+        {
+            "codigo": "_______________________________________\nDAVI SANCHES HOFT\nSOCIO ADMINISTRADOR\nCPF: 085.508.629-75",
+            "tipo": "",
+            "classificacao": "",
+            "nome": "_______________________________________\nROMILDO COSTA\nReg. no CRC - PR sob o No. PR035847O0\nCPF: 626.276.789-49",
+            "grau": 0
+        }
+    ]
+}
